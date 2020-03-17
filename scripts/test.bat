@@ -1,0 +1,1 @@
+pytest --cov=pydantic_collection --cov-report=xml --cov-report=term-missing  tests
